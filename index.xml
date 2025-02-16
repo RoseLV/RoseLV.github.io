@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ran`s blog</title>
-    <link>https://roselv.github.io/</link>
+    <link>https://ranlyu.github.io/</link>
     <description>Recent content on Ran`s blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 14:53:54 -0500</lastBuildDate>
-    <atom:link href="https://roselv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ranlyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tailoring Frontend Solutions: How to Choose the Right Approach for Your Business Website</title>
-      <link>https://roselv.github.io/posts/my-first-post/</link>
+      <link>https://ranlyu.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 15 Feb 2025 14:53:54 -0500</pubDate>
-      <guid>https://roselv.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Ran&lt;/strong&gt;, a frontend developer with &lt;strong&gt;7 years of experience&lt;/strong&gt; crafting websites and &lt;strong&gt;13 years in the IT industry&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;👉  &lt;strong&gt;&lt;a href=&#34;https://roselv.github.io/posts/myself-introduction/&#34;&gt;&lt;strong&gt;More about me?&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this post, I’ll share how to tailor frontend solutions to meet the unique needs of businesses at different stages—whether you’re a small business seeking a simple website or an enterprise needing a complex web app. Let’s get started!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-understanding-the-clients-needs&#34;&gt;&lt;strong&gt;1. Understanding the Client’s Needs&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Every business has unique requirements. Before recommending solutions, I assess:&lt;/p&gt;</description>
+      <guid>https://ranlyu.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Ran&lt;/strong&gt;, a frontend developer with &lt;strong&gt;7 years of experience&lt;/strong&gt; crafting websites and &lt;strong&gt;13 years in the IT industry&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;👉  &lt;strong&gt;&lt;a href=&#34;https://ranlyu.github.io/posts/myself-introduction/&#34;&gt;&lt;strong&gt;More about me?&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this post, I’ll share how to tailor frontend solutions to meet the unique needs of businesses at different stages—whether you’re a small business seeking a simple website or an enterprise needing a complex web app. Let’s get started!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-understanding-the-clients-needs&#34;&gt;&lt;strong&gt;1. Understanding the Client’s Needs&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Every business has unique requirements. Before recommending solutions, I assess:&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me: From Website Development to AI &amp; Beyond</title>
-      <link>https://roselv.github.io/posts/myself-introduction/</link>
+      <link>https://ranlyu.github.io/posts/myself-introduction/</link>
       <pubDate>Fri, 15 Mar 2024 21:55:03 -0500</pubDate>
-      <guid>https://roselv.github.io/posts/myself-introduction/</guid>
+      <guid>https://ranlyu.github.io/posts/myself-introduction/</guid>
       <description>&lt;p&gt;👋 Hi, I’m &lt;strong&gt;Ran&lt;/strong&gt;, a passionate &lt;strong&gt;frontend developer, AI enthusiast, and problem solver&lt;/strong&gt; with a strong foundation in &lt;strong&gt;information technology and computer science&lt;/strong&gt;. My journey began with a degree in &lt;strong&gt;e-commerce&lt;/strong&gt;, where I explored both &lt;strong&gt;IT and business&lt;/strong&gt;, followed by advanced studies in &lt;strong&gt;software engineering and AI technology in computer science&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;With &lt;strong&gt;7 years of hands-on experience in software development&lt;/strong&gt;, I’ve built scalable, high-performance, and user-friendly web applications for startups and enterprises across various industries and sectors. My expertise spans frontend technologies like &lt;strong&gt;HTML, CSS, JavaScript&lt;/strong&gt;, modern frameworks such as &lt;strong&gt;React.js, Next.js&lt;/strong&gt;, and web builder platforms like &lt;strong&gt;Webflow and WordPress&lt;/strong&gt;, enabling me to craft intuitive digital experiences that align with business needs. Beyond frontend work, I’ve contributed to full-stack web solutions using &lt;strong&gt;React.js + Express.js/FastAPI/Java Spring Boot&lt;/strong&gt;, &lt;strong&gt;Chrome extension development&lt;/strong&gt;, and &lt;strong&gt;AI research in image segmentation&lt;/strong&gt;. Currently, I am &lt;strong&gt;exploring SEO-driven web development&lt;/strong&gt;, optimizing websites to enhance visibility and functionality for businesses.&lt;/p&gt;</description>
     </item>
   </channel>
