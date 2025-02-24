@@ -1,13 +1,18 @@
 header .bg-black {
-  background-image: url(/css/bk_image.jpeg) !important;
+  background-image: url(/images/bk_image_road.jpeg) !important;
   width: 100%;
   height: 500px;
   background-size: cover;
   background-position: center; /* Center the image */
 }
 .content {
-  max-width: 800px; /* 限制最大宽度，避免内容过长 */
+  /* max-width: 800px; 限制最大宽度，避免内容过长 */
+  width: 100%;
+  max-width: 1200px !important;
   margin: 0 auto; /* 居中对齐 */
   padding: 20px; /* 适当增加内边距，提高可读性 */
   text-align: left; /* 保持文本左对齐 */
+}
+.dib-ns {
+  display: inline-block !important;  /* Always visible */
 }
